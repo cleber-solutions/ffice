@@ -2,6 +2,22 @@
 
 And Ice-like program to run webapps inside Firefox.
 
+## Motivations
+
+### Ice is a really interesting tool
+
+But its code is not the best Python possible. Besides, it embeds some
+Peppermint's things...
+
+### I don't trust Chrome/Chromium
+
+Yeah, but when a company that earns from advertising is your main sponsor
+I doubt you'd put that much effort into protecting your users privacy.
+
+## Install
+
+    pip install 'git+https://github.com/cleber-solutions/ffice.git'
+
 ## Usage
 
     ffice https://example.org
